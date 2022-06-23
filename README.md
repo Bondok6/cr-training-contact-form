@@ -15,10 +15,6 @@
 - Google Analytics
 - FormSpree
 
-## Live Demo
-
-[Kyrillos's Portfolio](https://bondok6.github.io/Portfolio/)
-
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
