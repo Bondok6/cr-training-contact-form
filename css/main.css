@@ -412,6 +412,12 @@ footer button {
   font-style: normal;
 }
 
+footer button:hover {
+  background-color: #fff5e1;
+  border: 1px solid #f55800;
+  color: #f55800;
+}
+
 .footer-line {
   width: 100%;
   margin: 0 -24px;
