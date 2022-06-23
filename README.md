@@ -1,5 +1,50 @@
-# curriculum-cr-training-contact-form
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This repo host an initial code for the tasks performed during the Code Reviewers training.
+# Portfolio
 
-Application is based on this [Figma design](https://www.figma.com/file/t3EJUCAEViw3QasuJLPLVT/Microverse-Student-Potfolio-Templates-Main?node-id=1%3A1471).
+> ### This is a website that exemplifies my skills, projects, qualifications, education, training, experiences, and resume.
+
+## Built With
+
+- HTML - HTML5
+- CSS - CSS3
+
+## Additional tools
+
+- Figma
+- Google Analytics
+- FormSpree
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+1. Run
+
+```bash
+> git clone git@github.com:Bondok6/cr-training-contact-form.git
+> cd cr-training-contact-form.git
+```
+
+2. Open `index.html` in browser.
+
+## Authors
+
+👤 **Kyrillos Hany**
+
+- GitHub: [@Bondok6](https://github.com/Bondok6)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kyrillos-hany/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
